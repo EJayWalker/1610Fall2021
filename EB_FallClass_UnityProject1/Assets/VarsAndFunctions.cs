@@ -9,7 +9,7 @@ public class VarsAndFunctions : MonoBehaviour
     void Start()
     {
         myInt = MultiplyByTwo(myInt);
-        Debug.log(myInt);
+        Debug.Log (myInt);
     }
 
 
